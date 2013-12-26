@@ -1,0 +1,18 @@
+{
+  "name": "util-log-timestamp",
+  "description": "Prepends timestamp in ISO format for console and util functions",
+  "version": "0.0.3",
+  "author": "Chirag Sanghvi <csanghvi@appacitive.com>",
+  "main": "./util-log-timestamp.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chiragsanghvi/util-log-timestamp"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "keywords": [ "console", "util", "console.log", "log", "logger", "timestamp",  "util.puts", "util.log" ]
+}
